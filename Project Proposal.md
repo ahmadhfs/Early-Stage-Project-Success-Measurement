@@ -3,7 +3,7 @@
 ## 1- Design:
 ---
 ### Introduction:
-With the rapid changes in the global economey due to technology , tens if not hundreds of startups are launched every day. Those changes affected workers mindset because in one hand,some of them fear losing their jobs and on the other, some of them desire to impact the world which pushes towards starting new business. Thus, entrepreneurship is the mainstream in the educational systems as well as government and private sectors which can be observed clearly in Saudi Arabia in addition to other countries.
+With the rapid changes in the global economy due to technology , tens if not hundreds of startups are launched every day. Those changes affected workers mindset because in one hand,some of them fear losing their jobs and on the other, some of them desire to impact the world which pushes towards starting new business. Thus, entrepreneurship is the mainstream in the educational systems as well as government and private sectors which can be observed clearly in Saudi Arabia in addition to other countries.
 ### Goal:
 Therefore, the project goal mainly will help **determine if an idea is worth pursuing or not (success or fail)**.
 **Two main catagory of beneficiaries would use this project:**
@@ -33,7 +33,7 @@ The dataset contains 13 columns as following:
 * **usd pledged**: Conversion in US dollars of the pledged column (done by kickstarter)
 
 ### Algorithms:
-The goal as described yield a classification problem ;therefore, the model tries to predict the target column "state". Possible algorithms or architectures are Logistic Regression, Support Vector Machine, Random Forest, Gradient Boosting, XG Boosting, LSTM, and/or Transformer "pre-trained Bert".
+The goal as described yield a classification problem ;therefore, the model tries to predict the target column "state". Possible algorithms or architectures are Logistic Regression, Support Vector Machine, Random Forest, Gradient Boosting, XG Boosting, LSTM, and/or a transformer like "pre-trained Bert".
 
 ## 3- Tools:
 ---
